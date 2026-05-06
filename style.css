@@ -1,15 +1,36 @@
-.container border=1 {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-	padding: 3px;
+#homePage{
+	background-color: #FFFFFF;
 }
 
-.container div{
-	padding: 10px;
-	margin: 5px;
-	font-size: 18px;
-	text-align: left;
+#octonautPage1{
+	background-color: #B2F7F1;
 }
-div {
-	border: 2px dodgerblue;
+
+#octonautPage3{
+	background-color: #B5B5B5;
+}
+#pawPatrolPage1{
+	background-color: #ABDFFF;
+}
+
+.highlight{
+	background-color: #FFFED4;
+}
+
+#pawPatrolPage3{
+	background-color: #B5B5B5;
+}
+#pawPatrolPage4{
+	background-color: #FFA3E5;
+}
+
+#pjMasksPage1{
+	background-color: #43ACE0;
+}
+
+#pjMasksPage3{
+	background-color: #B5B5B5;
+}
+a {
+	color: #1000FF;
 }
